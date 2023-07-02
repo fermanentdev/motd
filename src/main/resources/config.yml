@@ -10,19 +10,21 @@
 # |                                                                                              | #
 # |  NAME:                    MOTD                                                               | #
 # |  VERSION:                 1.0                                                                | #
-# |  GITHUB:                  https://example.com/                                               | #
+# |  GITHUB:                  https://github.com/fermanentdev/motd                               | #
 # |  CREATED FOR SERVER:      Orion Network                                                      | #
 # |  DEVELOPER:               fermanent                                                          | #
 # +----------------------------------------------------------------------------------------------+ #
 ####################################################################################################
+
+
 
 # Plugin
 prefix: "  <g:#876091:#6e71c8>MOTD</g> <g:#674991>|</g>"
 
 # Motd
 motd:
-  first-line: "feefefef"
-  second-line: "feefeeg"
+  first-line: "                    &f◇ <g:#39A7FC>&lOrion Network</g> &f◇                "
+  second-line: "              <g:#FF0099>⚡ The first server launch ⚡</g>"
 
 # Messages
 messages:

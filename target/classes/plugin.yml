@@ -1,0 +1,7 @@
+name: MOTD
+author: 'fermanent'
+version: '1.0'
+main: ru.fermanent.motd.MOTD
+api-version: '1.16'
+commands:
+  mtd: {}
